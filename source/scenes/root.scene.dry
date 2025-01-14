@@ -4,3 +4,6 @@ new-page: true
 A secret island with rocky cliffs, sandy beaches, and clear blue water. 
 Old wooden houses line the shore, with colorful flags waving. Pirates and
 treasure hunters gather here for excitement and stories of hidden treasure.
+
+# choices
+- @harbour_master_hut: Visit the Harbour Master's Hut
