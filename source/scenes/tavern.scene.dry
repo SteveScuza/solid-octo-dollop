@@ -7,7 +7,7 @@ pirates and travelers come together. Inside, there are wooden
 tables, lanterns hanging, and the smell of food. Laughter and 
 stories fill the air as people eat, drink, and have a good time.
 
-You hunger level is [+ hunger +].
+You are [+ hunger : qhunger +].
 
 - @eat : Eat something
 - @brawl : Start a fight
