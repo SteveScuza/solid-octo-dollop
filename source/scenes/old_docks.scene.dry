@@ -3,5 +3,7 @@ subtitle: Rustic old docks you shouldn't go to.
 new-page: true
 tags: harbour
 view-if: know_of_map = "seen"
+choose-if: has_key = true
+unavailable-subtitle: You need a key to access the passage.
 
 The old rustic docks.
