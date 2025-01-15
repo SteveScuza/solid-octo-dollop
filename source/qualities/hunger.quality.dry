@@ -1,4 +1,9 @@
-name: hunger
-initial: 3
-min: 0
-max: 5
+
+# qhunger
+
+(-1..0) : full
+(0..1) : satisfied
+(1..2) : hungry
+(2..3) : famished
+(3..4) : starving
+(4..5) : ravenous
