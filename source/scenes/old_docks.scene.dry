@@ -2,6 +2,6 @@ title: Old Docks
 subtitle: Rustic old docks you shouldn't go to.
 new-page: true
 tags: harbour
-
+view-if: know_of_map = "seen"
 
 The old rustic docks.

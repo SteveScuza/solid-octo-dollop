@@ -7,3 +7,12 @@ where boats and ships come. It's a simple building made of wood,
 with a thatched roof on top. Inside, there are maps on the walls 
 and a big table where the Harbour Master plans and watches over 
 the port.
+
+-@look_map: Examine the map
+
+@look_map
+view-if: know_of_map != "seen"
+on-arrival: know_of_map = "seen"
+
+The map shows the harbor and the surrounding area. You notice a
+**secret passage** marked on the map that leads to the **fortress**.
